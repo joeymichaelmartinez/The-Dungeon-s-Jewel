@@ -1,4 +1,4 @@
-<center>The Dungeon&#39;s Jewel Game Design Document</center>
+**The Dungeon&#39;s Jewel Game Design Document**
 
 Author:
 
@@ -123,33 +123,32 @@ Wall: If a player draws a wall dungeon token, then they get to decide which way 
 
 Dungeon tokens:
 
- ![water_symbol](https://user-images.githubusercontent.com/16887042/38067190-31befa9c-32c0-11e8-96a7-3c3ea2c5cd4d.jpg)
 
 Spike Dungeon Token:
  ![spike](https://user-images.githubusercontent.com/16887042/38067187-318cfb46-32c0-11e8-8626-8a45ca451ab0.png)
 
+Water Dungeon Token:
+ ![water_symbol](https://user-images.githubusercontent.com/16887042/38067190-31befa9c-32c0-11e8-96a7-3c3ea2c5cd4d.jpg)
 
-WaterDungeon Token:
- ![trapdoor](https://user-images.githubusercontent.com/16887042/38067188-31a68a2a-32c0-11e8-8a29-92c7764e0940.png)
-Fire DungeonToken:
+Fire Dungeon Token:
  ![firesymbol](https://user-images.githubusercontent.com/16887042/38067182-312edb4c-32c0-11e8-8258-0468a3d747b6.jpg)
 
-MonsterDungeonToken:
+Monster Dungeon Token:
  ![minotaur](https://user-images.githubusercontent.com/16887042/38067183-31455b24-32c0-11e8-8787-85a46f0ddb00.jpg)
 
-
-Trap DoorDungeon Token:
+Trap Door Dungeon Token:
  ![trapdoor](https://user-images.githubusercontent.com/16887042/38067188-31a68a2a-32c0-11e8-8a29-92c7764e0940.png)
 
-Sleeping gasDungeon Token:
+Sleeping Gas Dungeon Token:
  ![sleepinggas](https://user-images.githubusercontent.com/16887042/38067185-31761fe8-32c0-11e8-937c-8de93c815d73.jpg)
 
-Poison DartDungeon Token:
+Poison Dart Dungeon Token:
  ![blowdart](https://user-images.githubusercontent.com/16887042/38067181-3117eb80-32c0-11e8-9586-07a27ead8216.png)
 
 
 Quicksand Dungeon Token:
  ![quicksand](https://user-images.githubusercontent.com/16887042/38067184-315dc240-32c0-11e8-9669-fccfdb36bcdf.jpg)
+
 Wall DungeonToken:
 ![verticalline](https://user-images.githubusercontent.com/16887042/38067515-d26ba890-32c1-11e8-86c8-812bb1dcb67e.png)
 #
