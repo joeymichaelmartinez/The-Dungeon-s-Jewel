@@ -150,7 +150,7 @@ Quicksand Dungeon Token:
  ![quicksand](https://user-images.githubusercontent.com/16887042/38067184-315dc240-32c0-11e8-9669-fccfdb36bcdf.jpg)
 
 Wall DungeonToken:
-![verticalline](https://user-images.githubusercontent.com/16887042/38067515-d26ba890-32c1-11e8-86c8-812bb1dcb67e.png)
+![image6](https://user-images.githubusercontent.com/16887042/38068340-92411e36-32c5-11e8-8ea1-f355044846f7.jpg)
 #
 
 # Game Space Diagram:
